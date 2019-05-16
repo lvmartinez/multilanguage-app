@@ -1,0 +1,47 @@
+{
+	"language":
+		[
+			{
+				"id":1,
+				"slug":"en",
+				"name":"English"
+			},
+			{
+				"id":2,
+				"slug":"es",
+				"name":"Espa\u00f1ol"
+			},
+			{
+				"id":3,
+				"slug":"fr",
+				"name":"Fran\u00E7aise"
+			},
+			{
+				"id":4,
+				"slug":"it",
+				"name":"Italiano"
+			},
+			{
+				"id":5,
+				"slug":"zh",
+				"name":"中文"
+			}
+			,
+			{
+				"id":6,
+				"slug":"la",
+				"name":"Latin"
+			}
+		],
+	
+	"data":
+		{
+			"en":"Hello World!",
+			"es":"¡Hola Mundo!",
+			"fr":"Bonjour Monde!",
+			"it":"Ciao mondo!",
+			"zh":"你好世界!",
+			"la":"Salve Mundi!"
+		}
+		
+}
